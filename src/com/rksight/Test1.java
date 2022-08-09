@@ -8,7 +8,7 @@ public class Test1 {
         System.out.println("I am inside setup");
     }
 
-    @Test(priority = 3)
+    @Test(priority = 5)
     void testStep(){
         System.out.println("I am inside teststep");
     }
