@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-08T20:43:30 IST" name="Default Suite" finished-at="2022-08-08T20:43:30 IST" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2022-08-08T20:43:30 IST" name="Dtest1Demo" finished-at="2022-08-08T20:43:30 IST" duration-ms="46">
+      <class name="com.rksight.Test1">
+        <test-method signature="setup()[pri:1, instance:com.rksight.Test1@12028586]" started-at="2022-08-08T20:43:30 IST" name="setup" finished-at="2022-08-08T20:43:30 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testStep()[pri:3, instance:com.rksight.Test1@12028586]" started-at="2022-08-08T20:43:30 IST" name="testStep" finished-at="2022-08-08T20:43:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStep -->
+        <test-method signature="tearDown()[pri:4, instance:com.rksight.Test1@12028586]" started-at="2022-08-08T20:43:30 IST" name="tearDown" finished-at="2022-08-08T20:43:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.rksight.Test1 -->
+    </test> <!-- Dtest1Demo -->
+  </suite> <!-- Default Suite -->
+</testng-results>
